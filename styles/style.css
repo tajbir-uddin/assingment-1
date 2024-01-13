@@ -110,3 +110,22 @@ header img {
     font-size: 24px;
     font-weight: 700;
 }
+
+/* Sign Up Section */
+
+.sign-up-section {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    margin: 130px 0px;
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 100px 240px;
+    gap: 100px;
+    text-align: center;
+    /* justify-content: space-between; */
+
+}
+
+#off {
+    color: #E55473;
+}
