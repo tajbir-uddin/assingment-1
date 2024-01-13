@@ -139,9 +139,32 @@ header img {
     justify-content: center;
 }
 
+/* Extra section */
+.extra-section {
+    border-radius: 8px;
+    /* background: rgba(39, 39, 39, 0.05); */
+    background-color: rgba(229, 84, 115, 0.10);
+    margin: 200px 0px;
+}
+
+.section-head {
+    padding-top: 20px;
+}
+
+.service-container {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 85px 175px;
+}
+
+.service-about {
+    text-align: center;
+}
+
 /* Subscribe Section */
 .subscribe-section {
-    margin-bottom: 200px 240px;
+    /* margin-bottom: 120px; */
     background-image: url('../flower Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-position: center;
@@ -166,6 +189,7 @@ header img {
     font-weight: 400;
     padding: 27px;
 }
+
 
 /* Footer Section */
 
