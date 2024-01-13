@@ -129,3 +129,12 @@ header img {
 #off {
     color: #E55473;
 }
+
+/* instagram section */
+
+.instagram-feature {
+    display: flex;
+    gap: 25px;
+    margin: 50px 240px;
+    justify-content: center;
+}
