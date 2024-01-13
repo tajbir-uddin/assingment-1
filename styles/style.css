@@ -166,3 +166,38 @@ header img {
     font-weight: 400;
     padding: 27px;
 }
+
+/* Footer Section */
+
+.footer {
+    background: #111010;
+    padding: 128px;
+    /* margin-top: 200px; */
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.shop {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
