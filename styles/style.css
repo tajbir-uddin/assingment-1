@@ -138,3 +138,31 @@ header img {
     margin: 50px 240px;
     justify-content: center;
 }
+
+/* Subscribe Section */
+.subscribe-section {
+    margin-bottom: 200px 240px;
+    background-image: url('../flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 280px;
+}
+
+.sub-section-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 16px;
+    padding-bottom: 120px;
+}
+
+.email-section {
+    border: 0px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 27px;
+}
