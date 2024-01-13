@@ -1,0 +1,35 @@
+
+/* header section */
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    padding: 0 240px;
+    gap: 100px;
+    justify-content: space-between;
+}
+
+header img {
+    width: 635px;
+    height: 800px;
+    padding: 50px 0px 0px 0px;
+}
+
+.banner {
+    padding-top: 200px;
+    padding-bottom: 170px;
+    align-items: center;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
